@@ -24,14 +24,30 @@ Facilita la administración de stock, el registro de movimientos y la consulta r
 
 ---
 
+## 📂 Instalación y uso  
+
+1. Clona este repositorio:  
+   ```bash
+   git clone https://github.com/VoctorX/SILL23EC.git
+   
+2. Copia la carpeta en tu servidor local (ejemplo: htdocs en XAMPP).
+
+3. Importa la base de datos incluida en el proyecto (licorera23.sql) en tu MySQL.
+
+4. Configura la conexión a la base de datos en el archivo config.php.
+
+4. Abre el proyecto en tu navegador:
+  http://localhost/SILL23EC
+
+---
+
 ## 📂 Repositorio  
 
-🔗 [Licorera23 en GitHub](https://github.com/tuusuario/licorera23)  
+🔗 [Licorera23 en GitHub](https://github.com/tuusuario/SILL23EC)  
 
 ---
 
 ## ✨ Próximas mejoras  
 
-- Generación de reportes avanzados en PDF/Excel.  
 - Panel de usuarios con roles (administrador, empleado).  
 - Notificaciones de stock bajo.  
